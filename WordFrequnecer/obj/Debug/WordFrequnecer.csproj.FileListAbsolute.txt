@@ -1,0 +1,6 @@
+F:\Users\Admin\Desktop\step\WordFrequnecer\WordFrequnecer\bin\Debug\WordFrequnecer.exe.config
+F:\Users\Admin\Desktop\step\WordFrequnecer\WordFrequnecer\bin\Debug\WordFrequnecer.exe
+F:\Users\Admin\Desktop\step\WordFrequnecer\WordFrequnecer\bin\Debug\WordFrequnecer.pdb
+F:\Users\Admin\Desktop\step\WordFrequnecer\WordFrequnecer\obj\Debug\WordFrequnecer.csproj.CoreCompileInputs.cache
+F:\Users\Admin\Desktop\step\WordFrequnecer\WordFrequnecer\obj\Debug\WordFrequnecer.exe
+F:\Users\Admin\Desktop\step\WordFrequnecer\WordFrequnecer\obj\Debug\WordFrequnecer.pdb
